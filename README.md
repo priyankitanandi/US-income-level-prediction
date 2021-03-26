@@ -1,0 +1,2 @@
+# US-income-level-prediction
+In this project we analyze a U.S. census data taken from the UCI (University of California at Irvine) Machine Learning Repository. The project is divided into four parts: Cleaning and Preprocessing the Data, Exploratory Data Analysis, Predictive Analysis and Theoretical Background. Our final goal is to build a model, which can predict whether the income of a random adult American citizen is less or greater than 50000$ a year based on given features, such as age, education, occupation, gender, race, etc.
